@@ -3,3 +3,7 @@
     <link rel="stylesheet" href="style.css">
     <title>My Cool Page Title</title>
 </head>
+
+body {
+    background-color:03fc66;
+}
